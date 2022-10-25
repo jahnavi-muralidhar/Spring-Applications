@@ -1,0 +1,8 @@
+com/example/batchsample/entity/User.class
+com/example/batchsample/config/BatchConfig.class
+com/example/batchsample/BatchsampleApplication.class
+com/example/batchsample/entity/package-info.class
+com/example/batchsample/repository/package-info.class
+com/example/batchsample/config/UserItemProcessor.class
+com/example/batchsample/repository/UserRepository.class
+com/example/batchsample/config/package-info.class
